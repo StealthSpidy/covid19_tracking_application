@@ -1,0 +1,18 @@
+.infoBox{
+    flex:1;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+  }
+
+.infoBox:not(:last-child){
+    margin-right :15px;
+}
+
+.infoBox__cases{
+    color: red;
+    font-weight: 600;
+    font-size: 1.02rem;
+    margin-bottom: 00.5rem;
+}
+
+
